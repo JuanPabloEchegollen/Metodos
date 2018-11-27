@@ -20,13 +20,15 @@ Segundo Parcial
 
 [Metodo de Funciones con Matrices](https://github.com/JuanPabloEchegollen/Metodos/tree/master/Proyectos/Segundo%20Parcial/Funciones%20con%20Matrices)
 
+[Metodo de Gaus Seidel](https://github.com/JuanPabloEchegollen/Metodos/tree/master/Proyectos/Segundo%20Parcial/Gaus%20seidel)
+
 [Metodo de LU](https://github.com/JuanPabloEchegollen/Metodos/tree/master/Proyectos/Segundo%20Parcial/LU)
 
 [Metodo de Newton Raphson en sistemas no lineales](https://github.com/JuanPabloEchegollen/Metodos/tree/master/Proyectos/Segundo%20Parcial/Newton%20raphson%20en%20sistemas%20no%20lineales)
 
 Tercer Parical
 
-[Metodod de EDO euler](https://github.com/JuanPabloEchegollen/Metodos/tree/master/Proyectos/Tercer%20Parcial/EDO%20Euler)
+[Metodo de EDO euler](https://github.com/JuanPabloEchegollen/Metodos/tree/master/Proyectos/Tercer%20Parcial/EDO%20Euler)
 
 [Metodo de integracion](https://github.com/JuanPabloEchegollen/Metodos/tree/master/Proyectos/Tercer%20Parcial/Integracion)
 
